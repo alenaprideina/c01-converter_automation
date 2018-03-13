@@ -19,7 +19,6 @@ Feature: User is able to convert Volume units
     |target|result|
     |Power |Power |
     |Volume|Volume|
-    |Volume2|Volume|
     |Currency|Currency|
 
 
